@@ -1,0 +1,7 @@
+# config.yml
+#version 1.0
+
+tracked-items:
+  - DIAMOND
+  - GOLDEN_APPLE
+  # Add extra items here
