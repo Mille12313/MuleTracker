@@ -1,7 +1,15 @@
 # config.yml
-#version 1.0
-
-tracked-items:
-  - DIAMOND
-  - GOLDEN_APPLE
+#version 1.2
+logging:
+  logToFile: true
+  logDrops: true
+  logContainerInsertions: true
+  allowedItems:
+    - DIAMOND
+    - GOLD_INGOT
+    - NETHERITE_SCRAP
+    - NETHERITE_INGOT
+    - DIAMOND_BLOCKS
   # Add extra items here
+  # Write Minecraft ID's in CAPITAL LETTERS or it will not work. ID's can be easily
+  # found on the Minecraft Wiki.
