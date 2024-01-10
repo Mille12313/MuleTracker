@@ -23,6 +23,6 @@ This feature not only enhances the user experience but also offers a dynamic and
 - /muletracker logs <playername> - Lookup specific logs from this player.
 - /muletracker reload - Reloads the config.yml
 
-##Permissions
+## Permissions
 - muletracker.reload
 - muletracker.logs
